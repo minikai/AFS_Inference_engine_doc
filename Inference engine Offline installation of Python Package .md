@@ -15,7 +15,6 @@ The Inference engine is a Python runtime program that runs on Docker on a foggy 
 ## Update the Python Package via the whl file in a no-network environment (example below is the installation of the xgboost Package)
 
 ### 1. Put the xgboost package whl file in the c:\inference_engine directory
-
     ![image](https://github.com/minikai/AFS_Inference_engine_doc/blob/master/whl%E8%B7%AF%E5%BE%91.png?raw=true)
 
 
