@@ -18,6 +18,7 @@ The Inference engine is a Python runtime program that runs on Docker on a foggy 
 
     ![image](https://github.com/minikai/AFS_Inference_engine_doc/blob/master/whl%E8%B7%AF%E5%BE%91.png?raw=true)
 
+
 ### 2. Go to the /inference_engine folder in the container that Docker runs.
 
    ```cd /inference_engine/```
