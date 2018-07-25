@@ -12,7 +12,7 @@ The Inference engine is a Python runtime program that runs on Docker on a foggy 
     ![image](https://github.com/minikai/inference_engine_annotation_mqtt/blob/master/pip%20install%20xgboost.png?raw=true)
     
     
-**Update the Python Package via the whl file in a no-network environment (here, install the xgboost suite as an example)**
+**Update the Python Package via the whl file in a no-network environment (example below is the installation of the xgboost Package)**
 -------------
 1. Put the xgboost package whl file in the c:\inference_engine directory
 
