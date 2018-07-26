@@ -27,4 +27,4 @@ The Inference engine is a Python runtime program that runs on Docker on a foggy 
 
    ```pip install xgboost-0.72.1-py2.py3-none-manylinux1_x86_64.whl```
    
-     ![image](https://github.com/minikai/inference_engine_annotation_mqtt/blob/master/pip%20install%20whl.png?raw=true)
+     ![image](https://github.com/minikai/AFS_Inference_engine_doc/blob/master/pip%20install%20whl.png?raw=true)
